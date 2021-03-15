@@ -6,5 +6,5 @@ type Course struct {
 }
 
 func (b *Course) TableName() string {
-  return "course"
+  return "courses"
 }

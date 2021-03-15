@@ -1,4 +1,5 @@
 package main
+
 import (
   "rest-api-courses/api/v1/Config"
   "rest-api-courses/api/v1/Models"
